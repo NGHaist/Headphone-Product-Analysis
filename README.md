@@ -58,5 +58,3 @@ Each collected field supports downstream analytical goals:
 * **Color variants** enable within-product comparative analysis
 * **Review dates** support time-series and product lifecycle analysis
 
-* Add an **Ethics & Data Collection** section explicitly
-* Or draft the **Phase 2 README section** so the transition is seamless
